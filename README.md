@@ -11,3 +11,6 @@ learning merge & branch
 
 # HEADING 4 
 conflict will happen here>>>>>>>>>> i will change here.
+
+# HEADING 5
+>>>>>>>> learning stash.
