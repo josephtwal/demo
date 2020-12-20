@@ -8,3 +8,6 @@ learning the diff command
 
 #HEADING 3
 learning merge & branch
+
+# HEADING 4 
+conflict will happen here.
