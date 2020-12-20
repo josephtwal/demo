@@ -10,4 +10,4 @@ learning the diff command
 learning merge & branch
 
 # HEADING 4 
-conflict will happen here.
+conflict will happen here>>>>>>>>>> i will change here.
